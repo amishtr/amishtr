@@ -18,6 +18,7 @@ Furthermore, I mainly work on the Oracle database and Oracle EBS applications. T
 • Web Development (e.g. HTML/CSS, PHP, JavaScript) <br/>
 • Procedural Language (e.g. PL/SQL, Stored Procedures) <br/>
 • Waterfall & Agile Development <br/>
+• JIRA, Confluence, BitBucket, Docker and Jenkins <br/>
 
 I am open to:
 
