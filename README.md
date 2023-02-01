@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi there, I'm Amish Trivedi 👋
 
-I have worked as an Oracle Engineer at LDMS. In past, I have also worked as a Software Engineer at [Sony](https://www.sony.com/en/). 
+I am working as an Operations and Application Analyst. I have worked as an Oracle Engineer at LDMS. In past, I have also worked as a Software Engineer at [Sony](https://www.sony.com/en/). 
 Furthermore, I mainly work on the Oracle database and Oracle EBS applications. The technologies I currently use are PL/SQL, SQL, Oracle-SQL Server databases, HTML, CSS, and PHP.
 
 ## Skills
